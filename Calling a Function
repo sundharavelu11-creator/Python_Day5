@@ -1,0 +1,25 @@
+Creating the function alone will not execute it.
+Example:
+def show_message():
+    print("Welcome to Python")
+There is no output yet.
+
+We need to call the function.
+def show_message():
+    print("Welcome to Python")
+
+show_message()
+Output
+Welcome to Python
+
+Understand the flow:
+def show_message():
+        ↓
+Function Created
+
+
+show_message()
+        ↓
+Function Called
+        ↓
+Code Executes
