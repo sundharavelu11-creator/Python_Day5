@@ -1,0 +1,21 @@
+PYTHON FUNCTIONS FOR AWS DATA ENGINEERING
+1.	What is a Function?
+2.	Why do we use Functions?
+3.	Creating a Function using def
+4.	Calling a Function
+5.	Function with Parameters
+6.	Function with Multiple Parameters
+7.	Arguments
+8.	Default Parameters
+9.	return Statement
+10.	Function Returning Multiple Values
+11.	Function with if-else
+12.	Function with Loops
+13.	Function with Lists
+14.	Function with Dictionaries
+15.	Function with List of Dictionaries
+16.	File Validation Function
+17.	Pipeline Status Function
+18.	Record Count Validation
+19.	S3 File Processing Example
+20.	Reusable Data Engineering Functions
